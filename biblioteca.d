@@ -1,1 +1,1 @@
-biblioteca.o biblioteca.d : biblioteca.cpp biblioteca.h
+biblioteca.o biblioteca.d : biblioteca.cpp

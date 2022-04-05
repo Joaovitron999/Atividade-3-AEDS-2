@@ -1,1 +1,1 @@
-main.o main.d : main.cpp biblioteca.h
+main.o main.d : main.cpp
